@@ -40,6 +40,6 @@ Apasionado por el desarrollo web y la enseñanza. Me enfoco en crear soluciones 
 
 ## Contacto
 
-* 🔗 [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-martin-aguilar/)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-aguilar/)
 
 ---
