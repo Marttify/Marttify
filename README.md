@@ -1,1 +1,1 @@
-👋 Soy Martín Aguilar, bienvenido a mi repositorio.
+👋 Soy Martín Aguilar, bienvenido.
